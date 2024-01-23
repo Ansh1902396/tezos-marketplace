@@ -22,7 +22,7 @@ export default function Welcome() {
         px: 4,
         bgcolor: "#eaeff1",
         backgroundImage:
-          "url(https://en.vinex.market/skin/default/images/banners/home/new/banner-1180.jpg)",
+          "url(https://www.shutterstock.com/image-photo/vintage-grunge-still-life-items-600nw-217501978.jpg)",
         backgroundRepeat: "no-repeat",
         backgroundSize: "cover",
       }}

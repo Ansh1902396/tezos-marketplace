@@ -18,8 +18,8 @@ function Copyright() {
   return (
     <Typography variant="body2" color="text.secondary" align="center">
       {"Copyright © "}
-      <Link color="inherit" href="https://www.marigold.dev/">
-        Marigold
+      <Link color="inherit" href="https://github.com/Ansh1902396/tezos-marketplace">
+        Made by Rudransh and Suryansh
       </Link>{" "}
       {new Date().getFullYear()}.
     </Typography>
